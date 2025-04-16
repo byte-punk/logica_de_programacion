@@ -1,7 +1,7 @@
 # Logica_de_programacion
 Curso de lógica para aprender cualquier lenguaje de programación desde cero, resolviendo ejercicios y siguiendo una ruta de estudio.
 
-*Made with ❤️ by [1gn1z](https://github.com/1gn1z) *
+*Made with ❤️ by [Byte-Punk](https://github.com/byte-punk) *
 
 
 ## #00 SINTAXIS, VARIABLES, TIPOS DE DATOS Y HOLA MUNDO
